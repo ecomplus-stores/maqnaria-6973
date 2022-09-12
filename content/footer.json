@@ -1,10 +1,10 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "MAQNARIA",
+    "text": "Máquinas e Equipamentos"
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
