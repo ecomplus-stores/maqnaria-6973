@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dc5d7b66f4872d1343a426d405d5fea7.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.0f5543618897bd5e78a3c440b7d7543b.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.57a383b427522eea4e889d5ebe1de501.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.aff6fbbc3b3d124a5956633ae015ee62.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.390c8ffbd78b6b59f91de4ac0d1dc165.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "MAQNARIA",
+  "short_name": "maqnaria",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "maqnaria",
+  "background_color": "#ffffff",
+  "theme_color": "#20c997"
+}
