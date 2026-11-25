@@ -2,6 +2,13 @@
   publish = "publish"
   functions = "functions-zip"
 
+# Manutencao: remover este bloco para a loja voltar ao ar
+[[redirects]]
+  from = "/*"
+  to = "/manutencao.html"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/*"
   to = "/.netlify/functions/ssr?slug=:splat"
